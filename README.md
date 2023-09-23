@@ -3,7 +3,7 @@
 Benvenuti nella lista battesimo di Marco! 
 Qui troverete tutte le informazioni necessarie per contribuire alla gioia del nostro bambino.
 
-## Lista Amazon
+## Lista [Amazon](inserire-qui-il-link-alla-lista-amazon)
 
 Abbiamo creato una lista su Amazon con alcuni articoli che ci piacerebbe avere per Marco. Potete trovare la lista [qui](inserire-link-alla-lista-amazon).
 
