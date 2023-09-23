@@ -40,5 +40,4 @@ Grazie ancora,
 
 Fabrizio e Martina
 
-![Battesimo Marco](assets/img/invito_battesimo.jpg)
 
