@@ -3,9 +3,9 @@
 Benvenuti nella lista battesimo di Marco! 
 Qui troverete tutte le informazioni necessarie per contribuire alla gioia del nostro bambino.
 
-## Lista [Amazon](inserire-qui-il-link-alla-lista-amazon)
+## Lista [Amazon](https://www.amazon.it/baby-reg/martina-nicolai-aprile-2023-roma/3SZUIOQ5MSV15?ref_=cm_sw_r_mwn_dp_5628JE3ZEH41NAD7G5TS)
 
-Abbiamo creato una lista su Amazon con alcuni articoli che ci piacerebbe avere per Marco. Potete trovare la lista [qui](inserire-link-alla-lista-amazon).
+Abbiamo creato una lista su Amazon con alcuni articoli che ci piacerebbe avere per Marco. Potete trovare la lista [seguendo questo link](https://www.amazon.it/baby-reg/martina-nicolai-aprile-2023-roma/3SZUIOQ5MSV15?ref_=cm_sw_r_mwn_dp_5628JE3ZEH41NAD7G5TS).
 
 ## Oggetti da Comprare
 
