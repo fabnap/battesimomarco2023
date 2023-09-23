@@ -16,11 +16,11 @@ Ecco una lista di oggetti che potete acquistare per Marco. Se preferite fare un 
 Qui ci sono alcune idee.
 
 
-- [X] Pannolini ID1
-- [ ] Abbigliamento per neonati ID2
-- [ ] Giocattoli educativi ID3
-- [ ] Coperte e asciugamani ID4 
-- [ ] Prodotti per la cura del bambino (shampoo, bagnoschiuma, ecc.) ID5
+- [X] Pannolini
+- [ ] Abbigliamento per neonati
+- [ ] Giocattoli educativi
+- [ ] Coperte e asciugamani
+- [ ] Prodotti per la cura del bambino (shampoo, bagnoschiuma, ecc.
 
 ## IBAN per Regalo
 
