@@ -9,7 +9,10 @@ Abbiamo creato una lista su Amazon con alcuni articoli che ci piacerebbe avere p
 
 ## Oggetti da Comprare
 
-Ecco una lista di oggetti che potete acquistare per Marco. Se preferite fare un regalo diverso da quelli nella lista Amazon, potete scegliere uno di questi prodotti, avvisandoci prima per poterlo eliminare. 
+Ecco una lista di oggetti che potete acquistare per Marco. Se preferite fare un regalo diverso da quelli nella lista Amazon, potete scegliere uno di questi prodotti, avvisandoci prima per poterlo spuntare. 
+- [ ] Regalo ancora da comprare
+- [X] Regalo prenotato
+ 
 Qui ci sono alcune idee.
 
 
