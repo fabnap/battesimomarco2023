@@ -9,7 +9,9 @@ Abbiamo creato una lista su Amazon con alcuni articoli che ci piacerebbe avere p
 
 ## Oggetti da Comprare
 
-Ecco una lista di oggetti che potete acquistare per Marco. Se preferite fare un regalo diverso da quelli nella lista Amazon, qui ci sono alcune idee:
+Ecco una lista di oggetti che potete acquistare per Marco. Se preferite fare un regalo diverso da quelli nella lista Amazon, potete scegliere uno di questi prodotti, avvisandoci prima per poterlo eliminare. 
+Qui ci sono alcune idee.
+
 
 - Pannolini
 - Abbigliamento per neonati
@@ -30,6 +32,7 @@ Siamo entusiasti di condividere questo momento speciale con voi!
 Se avete domande o desiderate ulteriori informazioni, non esitate a contattarci.
 
 Grazie ancora,
+
 Fabrizio e Martina
 
 
