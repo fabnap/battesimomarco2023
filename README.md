@@ -27,7 +27,8 @@ Qui ci sono alcune idee.
 Se desiderate contribuire con un regalo in denaro, ecco l'IBAN dove potete effettuare il bonifico:
 
 Nome del beneficiario: Martina Nicolai
-IBAN: [IBAN]
+
+IBAN: IT21O 3600 3342 1060 0000 1829 71
 
 Vi ringraziamo in anticipo per ogni pensiero e gesto di affetto verso Marco e la nostra famiglia. 
 Siamo entusiasti di condividere questo momento speciale con voi!
