@@ -9,11 +9,12 @@ Abbiamo creato una lista su Amazon con alcuni articoli che ci piacerebbe avere p
 
 ## Oggetti da Comprare
 
-Ecco una lista di oggetti che potete acquistare per Marco. Se preferite fare un regalo diverso da quelli nella lista Amazon, potete scegliere uno di questi prodotti, avvisandoci prima per poterlo spuntare. 
+Ecco una lista di oggetti che potete acquistare per Marco. Se preferite fare un regalo diverso da quelli nella lista Amazon, potete scegliere uno di questi prodotti, avvisandoci prima per poterlo spuntare. Ad esempio: 
+ 
 - [ ] Regalo ancora da comprare
 - [X] Regalo prenotato
  
-Qui ci sono alcune idee.
+Qui ci sono alcune idee:
 
 
 - [X] Pannolini
@@ -39,4 +40,5 @@ Grazie ancora,
 
 Fabrizio e Martina
 
+![Battesimo Marco](assets/img/invito_battesimo.jpg)
 
