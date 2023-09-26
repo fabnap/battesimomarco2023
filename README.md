@@ -16,12 +16,10 @@ Ecco una lista di oggetti che potete acquistare per Marco. Se preferite fare un 
  
 Qui ci sono alcune idee:
 
-
-- [X] Pannolini
-- [ ] Abbigliamento per neonati
-- [ ] Giocattoli educativi
-- [ ] Coperte e asciugamani
-- [ ] Prodotti per la cura del bambino (shampoo, bagnoschiuma, ecc.
+- [ ] Giochi Montessoriani
+- [ ] Cavalluccio a dondolo
+- [ ] Asciugamano 12-18 mesi
+- [ ] Triciclo
 
 ## IBAN per Regalo
 
