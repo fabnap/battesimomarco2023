@@ -1,7 +1,7 @@
 # Lista Battesimo di Marco
 
 Benvenuti nella lista battesimo di Marco! 
-Qui troverete tutte le informazioni necessarie per contribuire alla gioia del nostro bambino.
+Qui troverete tutte le informazioni necessarie per contribuire per un possibile regalo.
 
 ## Lista [Amazon](https://www.amazon.it/baby-reg/martina-nicolai-aprile-2023-roma/3SZUIOQ5MSV15?ref_=cm_sw_r_mwn_dp_5628JE3ZEH41NAD7G5TS)
 
@@ -30,9 +30,9 @@ Nome del beneficiario: Martina Nicolai
 IBAN: IT21O 3600 3342 1060 0000 1829 71
 
 Vi ringraziamo in anticipo per ogni pensiero e gesto di affetto verso Marco. 
-Siamo contenti di condividere questo momento speciale con voi!
+Siamo contenti di condividere questo momento con voi!
 
-Se avete domande o desiderate ulteriori informazioni, non esitate a contattarci.
+Se avete domande o desiderate ulteriori informazioni, contattateci pure.
 
 Grazie ancora,
 
