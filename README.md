@@ -1,7 +1,7 @@
 # Lista Battesimo di Marco
 
 Benvenuti nella lista battesimo di Marco! 
-Qui troverete tutte le informazioni necessarie per contribuire per un possibile regalo.
+Qui troverete tutte le informazioni necessarie per contribuire con un possibile regalo.
 
 ## Lista [Amazon](https://www.amazon.it/baby-reg/martina-nicolai-aprile-2023-roma/3SZUIOQ5MSV15?ref_=cm_sw_r_mwn_dp_5628JE3ZEH41NAD7G5TS)
 
@@ -9,7 +9,7 @@ Abbiamo creato una lista su Amazon con alcuni articoli che ci piacerebbe avere p
 
 ## Oggetti da Comprare
 
-Ecco una lista di oggetti che potete acquistare per Marco. Se preferite fare un regalo diverso da quelli nella lista Amazon, potete scegliere uno di questi prodotti, avvisandoci prima per poterlo spuntare. Ad esempio: 
+Se preferite fare un regalo diverso da quelli nella lista Amazon, potete scegliere uno di questi prodotti, avvisandoci prima per poterlo spuntare. Ad esempio: 
  
 - [ ] Regalo ancora da comprare
 - [X] Regalo prenotato
@@ -20,7 +20,7 @@ Qui ci sono alcune idee:
 - [ ] Cavalluccio a dondolo
 - [ ] Asciugamano 12-18 mesi
 - [ ] Triciclo
-
+- [ ] Lenzuola lettino maxi 70x120
 ## IBAN per Regalo
 
 Se desiderate contribuire con un regalo in denaro, ecco l'IBAN dove potete effettuare il bonifico:
