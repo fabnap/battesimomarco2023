@@ -21,6 +21,8 @@ Qui ci sono alcune idee:
 - [ ] Asciugamano 12-18 mesi
 - [ ] Triciclo
 - [ ] Lenzuola lettino maxi 70x120
+- [ ] [Muta Nuoto Bambino](https://www.decathlon.it/p/muta-nuoto-anti-uv-baby-bambina/_/R-p-328354?mc=8732506&c=BLU_TURCHESE)
+
 ## IBAN per Regalo
 
 Se desiderate contribuire con un regalo in denaro, ecco l'IBAN dove potete effettuare il bonifico:
