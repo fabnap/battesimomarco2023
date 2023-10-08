@@ -7,8 +7,8 @@ Qui troverete tutte le informazioni necessarie per contribuire con un possibile 
 
 Abbiamo creato una lista su Amazon con alcuni articoli che ci piacerebbe avere per Marco. Potete trovare la lista [seguendo questo link](https://www.amazon.it/baby-reg/martina-nicolai-aprile-2023-roma/3SZUIOQ5MSV15?ref_=cm_sw_r_mwn_dp_5628JE3ZEH41NAD7G5TS).
 I regali arriveranno direttamente a nonno Claudio, e vengono automaticamente spuntati. 
-0 di 1 acquistato vuol dire che non è ancora stato acquistato
-1 di 1 acquistato vuol dire che è già stato regalato quindi non acquistatelo nuovamente! 
+"0 di 1 acquistato" vuol dire che non è ancora stato acquistato;
+"1 di 1 acquistato" vuol dire che è già stato regalato quindi non acquistatelo nuovamente! 
 
 ## Oggetti da Comprare
 
